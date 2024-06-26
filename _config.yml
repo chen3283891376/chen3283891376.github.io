@@ -63,7 +63,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: Ov23li7X94gOASMMX1Ct                            #生成的clientID
-  clientSecret: 4635c856378af5babf7585ff7b588e3e14e79e35    #生成的clientSecret
+  clientSecret: 75331a2263f08fd27e2cacdad6be82f12f938c0c    #生成的clientSecret
   repo: chen3283891376.github.io    #仓库名称
   owner: chen3283891376    #github用户名
   admin: chen3283891376
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
