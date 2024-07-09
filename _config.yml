@@ -68,7 +68,6 @@ gitalk:
   owner: chen3283891376    #github用户名
   admin: chen3283891376
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  proxy: https://shielded-brushlands-08810.herokuapp.com/https://github.com/login/oauth/access_token
 
 
 # 统计
